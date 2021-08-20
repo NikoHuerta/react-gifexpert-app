@@ -1,5 +1,4 @@
 {
-  "homepage": "https://nikohuerta.github.io/react-gifexpert-app",
   "name": "gif-expert-app",
   "version": "0.1.0",
   "private": true,
@@ -39,6 +38,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+
   }
 }
